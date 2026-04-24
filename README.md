@@ -1,16 +1,15 @@
-## Hi there 👋
+## 你好 👋
 
-<!--
-**manwa66/manwa66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**秘密研究所导航** 是一个 ✨ _特别的_ ✨ 仓库，因为它的 `README.md` 会显示在你的 GitHub 主页上。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+这里有一些灵感，你可以根据自己的情况修改：
+
+- 🔭 我目前在做：秘密研究所导航项目，整理有趣的工具和资源（你懂的）
+- 🌱 我正在学习：前端开发、Python 数据分析
+- 👯 我希望合作：有趣的开源项目和资源整理
+- 🤔 我希望获得帮助：GitHub Pages 页面优化、自动化脚本
+- 💬 可以问我：技术问题、资源推荐、项目思路
+- 📫 联系我：邮箱：dizhiav@gmail.com
+- 😄 称呼：你可以叫我 Manwa
+- ⚡ 有趣的小事实：我喜欢探索各种冷门工具和实验项目
